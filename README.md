@@ -4,4 +4,5 @@ Here you will find a portfolio of work for data scientist Chase Ginther. The con
 
 ## Contents
 
-### Test
+### Newton Line Search
+An optimization method for finding a local minima of some function that is twice continously differentiable. An efficient method that obtains quadratic convergence. Implementation based off of routine described in Numerical Optimization by Nocedal and Wright.
